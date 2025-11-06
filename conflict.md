@@ -4,4 +4,4 @@ Selle faili tegin mina (repo omanik)
 
 Tere külaline!
 
-Muudan rida!
+Muudan rida! Muutsin sama rida!
