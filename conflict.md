@@ -4,4 +4,4 @@ Selle faili tegin mina (repo omanik)
 
 Tere külaline!
 
-Muudan rida! Muutsin sama rida!
+Muudan rida! Kustutasin lause, asendasin sellega!
